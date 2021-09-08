@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flatno: MyString
+  building: MyString
+  road: MyString
+  user: one
+
+two:
+  flatno: MyString
+  building: MyString
+  road: MyString
+  user: two
